@@ -1,6 +1,6 @@
 # Hi, I'm Jutan Baidya 👋
 
-I'm a BCA student interested in software development, networking, and cybersecurity.
+I'm a BCA student interested in networking, and cybersecurity.
 
 ## Currently Learning
 
