@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jutan Baidya 👋
 
-<!--
-**Jutannn-eng/Jutannn-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student interested in software development, networking, and cybersecurity.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Data Structures & Algorithms
+- Computer Networking
+- Linux
+- Git & GitHub
+
+## Interests
+
+- Software Development
+- Networking
+- Cybersecurity
+- Cloud & Infrastructure
+
+## Projects
+
+- [Daily Task Manager](https://github.com/Jutannn-eng/DailyTaskManager)
+
+More projects coming soon...
+
+## Connect
+
+- LinkedIn: [Jutan Baidya](http://linkedin.com/in/jutan-baidya-79b327393/)
